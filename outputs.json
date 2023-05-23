@@ -1,0 +1,75 @@
+{
+  "relayer_info": [
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-arbitrum-goerli",
+      "key_id": "63abb668-6023-45cb-b67d-d8bdb9e06149",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-arbitrum-goerli",
+      "role_name": "khalani-hyperlane-relayer-arbitrum-goerli"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-bsc-testnet",
+      "key_id": "ddb9c337-0f8e-467c-ad01-2d751675516f",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-bsc-testnet",
+      "role_name": "khalani-hyperlane-relayer-bsc-testnet"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-fuji",
+      "key_id": "e7cc7fc6-42fd-4565-bcaf-d126cb6f5d10",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-fuji",
+      "role_name": "khalani-hyperlane-relayer-fuji"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-godwoken-testnet",
+      "key_id": "e2f34d0c-2105-4d1d-8448-241b0b28209f",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-godwoken-testnet",
+      "role_name": "khalani-hyperlane-relayer-godwoken-testnet"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-khalani-testnet",
+      "key_id": "541a29cf-b62b-4b0c-9031-94e2d00dfd9f",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-khalani-testnet",
+      "role_name": "khalani-hyperlane-relayer-khalani-testnet"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-mumbai",
+      "key_id": "d185f7f0-d58b-4f4c-b621-c2b68723fe00",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-mumbai",
+      "role_name": "khalani-hyperlane-relayer-mumbai"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-optimism-goerli",
+      "key_id": "d3ddec10-8156-4e7b-b522-d6ba0a58a640",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-optimism-goerli",
+      "role_name": "khalani-hyperlane-relayer-optimism-goerli"
+    },
+    {
+      "key_alias": "alias/khalani-hyperlane-relayer-sepolia",
+      "key_id": "366b6a01-b570-4012-825c-81bf16390789",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-relayer-sepolia",
+      "role_name": "khalani-hyperlane-relayer-sepolia"
+    }
+  ],
+  "validator_info": [
+    {
+      "bucket_name": "khalani-validator-signatures-0",
+      "key_alias": "alias/khalani-hyperlane-validator-signer-0",
+      "key_id": "dea61829-8c8e-4ec4-8d35-dddd11a729c6",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-validator-0",
+      "role_name": "khalani-hyperlane-validator-0"
+    },
+    {
+      "bucket_name": "khalani-validator-signatures-1",
+      "key_alias": "alias/khalani-hyperlane-validator-signer-1",
+      "key_id": "a6abc8b7-144a-44ee-9e4d-21374b3a5cc0",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-validator-1",
+      "role_name": "khalani-hyperlane-validator-1"
+    },
+    {
+      "bucket_name": "khalani-validator-signatures-2",
+      "key_alias": "alias/khalani-hyperlane-validator-signer-2",
+      "key_id": "7345f580-f733-4bb2-9bcb-196d08ff9a1e",
+      "role_arn": "arn:aws:iam::803035318642:role/khalani-hyperlane-validator-2",
+      "role_name": "khalani-hyperlane-validator-2"
+    }
+  ]
+}
